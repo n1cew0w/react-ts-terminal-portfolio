@@ -1,0 +1,29 @@
+.terminal{
+  white-space: break-spaces;
+  display: flex;
+  color: #e1e1e1;
+  align-items: flex-start;
+
+}
+.span_text{
+  display: flex;
+  margin-right: 5px;
+}
+.wrapper{
+  background-color: rgba(64, 64, 64, 0.67);
+  color: white;
+  height: 90vh;
+  padding: 1rem;
+  box-sizing: border-box;
+  overflow: auto;
+
+}
+.input{
+  width: 100%;
+  border: none;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: white;
+}

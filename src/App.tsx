@@ -1,12 +1,14 @@
 import React from 'react';
 
 import './App.css';
-import ProgressBar from "./components/ProgressBar/ProgressBar";
+import TaskBar from "./components/TaskBar/TaskBar";
+import MainScreen from "./components/MainScreen/MainScreen";
 
 function App() {
     return (
         <div className="App">
-            <ProgressBar/>
+            <MainScreen/>
+            <TaskBar/>
         </div>
     );
 }

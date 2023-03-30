@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import styles from './ProgressBar.module.scss'
+import styles from './TaskBar.module.scss'
 import pusk from '../../assets/icons8-windows-11-48.png'
 import search from '../../assets/icons8-search-50.png'
 import explorer from '../../assets/icons8-file-explorer-48.png'
@@ -7,7 +7,7 @@ import volume from '../../assets/icons8-voice-48.png'
 import wifi from '../../assets/icons8-wi-fi-30.png'
 import up from '../../assets/icons8-up-32.png'
 
-const ProgressBar = () => {
+const TaskBar = () => {
     const [time, setTime] = useState(new Date());
 
     useEffect(() => {
@@ -56,4 +56,4 @@ const ProgressBar = () => {
     );
 };
 
-export default ProgressBar;
+export default TaskBar;
