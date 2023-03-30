@@ -8,7 +8,7 @@ const MainScreen = () => {
     return (
         <>
         <div className={styles.desktop_wrap}>
-            <Terminal/>
+                <Terminal/>
         </div>
 
         </>
