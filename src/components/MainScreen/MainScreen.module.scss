@@ -7,4 +7,7 @@
   background-size: cover;
   background-position: center;
   transition: all 0.2s ease;
+  ::-webkit-scrollbar {
+    width: 0;
+  }
 }
