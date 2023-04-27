@@ -2,7 +2,7 @@
   white-space: break-spaces;
   display: flex;
   color: #e1e1e1;
-
+  z-index: 1;
 
 }
 
@@ -41,6 +41,8 @@
   background-color: transparent;
   color: white;
   margin-left: 5px;
+  caret-color: green;
+ caret: green;
 }
 
 .header {
