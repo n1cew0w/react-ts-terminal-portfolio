@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-ts-terminal-portfolio/static/css/main.7d017d2c.css",
-    "main.js": "/react-ts-terminal-portfolio/static/js/main.6aac300a.js",
+    "main.js": "/react-ts-terminal-portfolio/static/js/main.b4ed2675.js",
     "static/js/787.d856bec2.chunk.js": "/react-ts-terminal-portfolio/static/js/787.d856bec2.chunk.js",
     "static/media/150052-2.jpg": "/react-ts-terminal-portfolio/static/media/150052-2.f3c7e14087981aeb8e03.jpg",
     "static/media/file_type_powershell_icon_130243.png": "/react-ts-terminal-portfolio/static/media/file_type_powershell_icon_130243.663b744036a6d65c27ad.png",
     "index.html": "/react-ts-terminal-portfolio/index.html",
     "main.7d017d2c.css.map": "/react-ts-terminal-portfolio/static/css/main.7d017d2c.css.map",
-    "main.6aac300a.js.map": "/react-ts-terminal-portfolio/static/js/main.6aac300a.js.map",
+    "main.b4ed2675.js.map": "/react-ts-terminal-portfolio/static/js/main.b4ed2675.js.map",
     "787.d856bec2.chunk.js.map": "/react-ts-terminal-portfolio/static/js/787.d856bec2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d017d2c.css",
-    "static/js/main.6aac300a.js"
+    "static/js/main.b4ed2675.js"
   ]
 }
