@@ -137,7 +137,7 @@ const Terminal = () => {
                              />
                         </span>
                         <div className={styles.terminal}>
-                            <a href='steam://run/570'>Играть в dota2</a>
+
                             {output}
 
                         </div>
