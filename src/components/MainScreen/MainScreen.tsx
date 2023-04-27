@@ -12,7 +12,7 @@ const MainScreen = () => {
     const terminal = useAppSelector((state) => state.terminal.isVisible)
 
     function test(){
-        console.log('awgwaga')
+        console.log('test')
     }
     return (
         <>
