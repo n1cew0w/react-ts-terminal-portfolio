@@ -11,9 +11,7 @@ import DesktopIcons from "../DesktopIcons/DesktopIcons";
 const MainScreen = () => {
     const terminal = useAppSelector((state) => state.terminal.isVisible)
 
-    function test(){
-        console.log('test')
-    }
+
     return (
         <>
             <div className={styles.desktop_wrap}>

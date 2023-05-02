@@ -60,7 +60,7 @@ const Terminal = () => {
 
 
 
-    // @ts-ignore
+
     return (
         <>
             <div style={{transform: `translateX(${translate.x}px) translateY(${translate.y}px)`}}>
@@ -88,6 +88,10 @@ const Terminal = () => {
                         n1cew0w powershell <br/>
                         (C) Frontend Corporation. Все права защищены <br/>
                         Введите <span>help</span>, чтобы узнать все доступные команды
+
+                        <div className={styles.terminal}>
+                            {output}
+                        </div>
 
                         <span className={styles.span_text}>
                             <label htmlFor="input">root@n1cew0w:~$</label>
@@ -136,11 +140,6 @@ const Terminal = () => {
                                     }}
                              />
                         </span>
-                        <div className={styles.terminal}>
-
-                            {output}
-
-                        </div>
                     </div>
                 </DragMove>
             </div>
